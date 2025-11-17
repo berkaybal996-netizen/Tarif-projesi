@@ -13,3 +13,13 @@ body {
  
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+@theme{
+  --color-primary: #1D1E20;
+  --color-secondary: #909294;
+  --color-box: #F5F6F7;
+  --color-default-border: #E8E8E8;
+  --weak-border: #E9E9EA;
+  --color-main: #AB0012;
+}
