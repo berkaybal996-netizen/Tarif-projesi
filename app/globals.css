@@ -23,3 +23,6 @@ body {
   --weak-border: #E9E9EA;
   --color-main: #AB0012;
 }
+bg-search{
+  background-image: url('/public/search-bg.svg');
+}

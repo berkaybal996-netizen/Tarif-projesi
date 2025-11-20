@@ -6,6 +6,7 @@ import { IoHelpBuoyOutline } from "react-icons/io5";
 import { FiPhone } from "react-icons/fi";
 import Link from 'next/link';
 import Navbar from './navbar';
+import Menu from './menu';
 
 
 
@@ -50,7 +51,7 @@ export default function Header() {
                         <TbWorld size={24} className='text-primary' />
                         <span className='text-primary text-base font-medium'>Türkçe</span>
                     </div>
-
+                            <Menu/>
                 </div>
             </div>
         </div>
